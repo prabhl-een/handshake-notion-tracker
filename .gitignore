@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+.venv Job Tracker/
+venv/
+*.egg-info/
+.pytest_cache/
+.DS_Store
+
+# Personal data -- never commit these
+resume.txt
+jobs.json
+my_jobs.txt
+handshake_saved_jobs_raw.txt
+handshake_urls.json
+handshake_job_details.json

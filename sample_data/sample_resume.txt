@@ -1,0 +1,49 @@
+Alex Rivera
+Computer Science Student, UC Santa Cruz
+
+SUMMARY
+Undergraduate Computer Science student with hands-on experience in
+software engineering, web development, and data analysis. Comfortable
+across the full stack, with a growing interest in machine learning and
+UX research. Seeking a summer internship in software engineering or
+applied AI.
+
+EDUCATION
+University of California, Santa Cruz
+B.S. Computer Science, Expected 2027
+Relevant coursework: Data Structures, Algorithms, Machine Learning,
+Human-Computer Interaction, Database Systems, Web Development
+
+TECHNICAL SKILLS
+Languages: Python, JavaScript, TypeScript, Java, SQL, HTML/CSS
+Frameworks: React, Node.js, Flask, Django
+Tools: Git, Docker, AWS, Figma, Jupyter Notebook
+Concepts: REST APIs, machine learning, data visualization, agile
+development, unit testing, CI/CD
+
+EXPERIENCE
+Software Engineering Intern, Local Startup (Summer 2025)
+- Built and shipped a React-based dashboard used by 500+ internal users
+- Wrote Python backend services with Flask and PostgreSQL
+- Collaborated with a team of 4 engineers using Git and agile sprints
+
+Undergraduate Research Assistant, UCSC Computer Science Dept (2024-2025)
+- Analyzed large datasets using Python, pandas, and scikit-learn
+- Co-authored a short paper on machine learning model evaluation
+- Presented findings at a campus research symposium
+
+Teaching Assistant, Intro to Programming (2024)
+- Led weekly lab sections for 30 students learning Python
+- Graded assignments and held office hours
+
+PROJECTS
+Personal Finance Tracker (React, Node.js, MongoDB)
+- Full-stack web app for tracking expenses with data visualizations
+
+Campus Event Recommender (Python, scikit-learn)
+- Built a content-based recommendation system using natural language
+	processing on event descriptions
+
+LEADERSHIP & ACTIVITIES
+Member, UCSC Association for Computing Machinery (ACM)
+Volunteer, Girls Who Code campus chapter

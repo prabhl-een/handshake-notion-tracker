@@ -1,0 +1,45 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "1. Parse SAMPLE data",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/main.py",
+      "console": "integratedTerminal",
+      "args": ["parse", "--input", "sample_data/sample_raw.txt", "--output", "jobs.json"]
+    },
+    {
+      "name": "2. Parse MY jobs (edit my_jobs.txt first)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/main.py",
+      "console": "integratedTerminal",
+      "args": ["parse", "--input", "my_jobs.txt", "--output", "jobs.json"]
+    },
+    {
+      "name": "3. Sync to Notion (DRY RUN - safe preview)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/main.py",
+      "console": "integratedTerminal",
+      "args": ["sync", "--input", "jobs.json", "--dry-run"]
+    },
+    {
+      "name": "4. Sync to Notion (REAL - writes rows)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/main.py",
+      "console": "integratedTerminal",
+      "args": ["sync", "--input", "jobs.json"]
+    },
+    {
+      "name": "5. Score resume fit (edit resume.txt and job_description.txt first)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/main.py",
+      "console": "integratedTerminal",
+      "args": ["score", "--resume", "resume.txt", "--job", "job_description.txt"]
+    }
+  ]
+}
