@@ -1,4 +1,4 @@
-# Job Application Tracker
+# Handshake to Notion Job Application Tracker
 
 A pipeline that turns your saved Handshake jobs into a structured, sortable,
 color-coded Notion database — with a built-in resume fit scorer. Built to
